@@ -10,7 +10,7 @@
 #include <cmath>
 
 #include "header.h"
-#include "compress.h"
+//#include "compress.h"
 
 using namespace std;
 

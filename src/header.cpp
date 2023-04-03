@@ -62,7 +62,7 @@ vector<string> header_first_half(
     num_columns = to_string(count(column_names_list.begin(), column_names_list.end(), ',') + 1);
     header.push_back(num_columns);
     // get gzip header
-    gzip_header = get_gzip_header();
+    //gzip_header = get_gzip_header();
 
     return header;
 }
@@ -131,7 +131,7 @@ string get_column_types(
     column_types_str.pop_back();
     return column_types_str;
 }
-
+/*
 string get_gzip_header(){
     string gzip_header = "";
     int example_int = 1;
@@ -148,4 +148,4 @@ string get_gzip_header(){
 
     return gzip_header;
 }
-
+*/
