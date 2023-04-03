@@ -1,0 +1,6 @@
+in_file:
+  data/small.tsv
+out_file:
+  data/small.tsv.grlz
+block_size:
+  200
