@@ -5,6 +5,7 @@ g++ \
     src/compress_main.cpp \
     src/header.cpp \
     -I inc/ \
+    -I lib/zlib/ \
     -lz \
     -o compress 
 

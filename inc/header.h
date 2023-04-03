@@ -3,6 +3,7 @@
 
 #endif //GWAS_COMPRESS_CPP_HEADER_H
 
+#include <algorithm>
 #include <iostream>
 #include <string>
 #include <vector>
