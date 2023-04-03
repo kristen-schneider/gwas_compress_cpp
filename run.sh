@@ -10,4 +10,7 @@ g++ \
     -o compress 
 
 # execute
-
+./compress \
+    /home/krsc0813/gwas_compress_cpp/data/small.tsv \
+    10 \
+    /home/krsc0813/gwas_compress_cpp/data/out.tsv
