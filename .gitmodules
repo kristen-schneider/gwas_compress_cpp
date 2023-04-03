@@ -1,6 +1,0 @@
-[submodule "zstr"]
-	path = zstr
-	url = https://github.com/mateidavid/zstr.git
-[submodule "lib"]
-	path = lib
-	url = https://github.com/mateidavid/zstr.git
